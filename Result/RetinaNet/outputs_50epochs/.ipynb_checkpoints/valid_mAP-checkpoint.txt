@@ -1,0 +1,8 @@
+ map_50: 0.3390, map: 0.1364
+Class 6 precision: 0.1497
+Class 2 precision: 0.1970
+Class 7 precision: 0.0556
+Class 1 precision: 0.0713
+Class 5 precision: 0.1323
+Class 4 precision: 0.0633
+Class 3 precision: 0.0514

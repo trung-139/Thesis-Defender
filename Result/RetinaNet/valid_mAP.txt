@@ -1,0 +1,856 @@
+ map_50: 0.3390, map: 0.1364
+Class 6 precision: 0.1497
+Class 2 precision: 0.1970
+Class 7 precision: 0.0556
+Class 1 precision: 0.0713
+Class 5 precision: 0.1323
+Class 4 precision: 0.0633
+Class 3 precision: 0.0514
+ map_50: 0.3664, map: 0.1467
+Class 6 precision: 0.1570
+Class 2 precision: 0.1848
+Class 7 precision: 0.0535
+Class 1 precision: 0.0702
+Class 5 precision: 0.1248
+Class 4 precision: 0.0600
+Class 3 precision: 0.0475
+ map_50: 0.2911, map: 0.1202
+Class 6 precision: 0.1592
+Class 2 precision: 0.1934
+Class 7 precision: 0.0560
+Class 1 precision: 0.0756
+Class 5 precision: 0.1362
+Class 4 precision: 0.0641
+Class 3 precision: 0.0530
+ map_50: 0.3648, map: 0.1466
+Class 6 precision: 0.1760
+Class 2 precision: 0.1862
+Class 7 precision: 0.0554
+Class 1 precision: 0.0711
+Class 5 precision: 0.1251
+Class 4 precision: 0.0611
+Class 3 precision: 0.0489
+ map_50: 0.4675, map: 0.2049
+Class 6 precision: 0.2069
+Class 2 precision: 0.2177
+Class 7 precision: 0.0532
+Class 1 precision: 0.0743
+Class 5 precision: 0.1428
+Class 4 precision: 0.0725
+Class 3 precision: 0.0535
+ map_50: 0.5497, map: 0.2529
+Class 6 precision: 0.2677
+Class 2 precision: 0.3090
+Class 7 precision: 0.0725
+Class 1 precision: 0.0995
+Class 5 precision: 0.1818
+Class 4 precision: 0.0847
+Class 3 precision: 0.0703
+ map_50: 0.5758, map: 0.2593
+Class 6 precision: 0.3295
+Class 2 precision: 0.3143
+Class 7 precision: 0.0666
+Class 1 precision: 0.0909
+Class 5 precision: 0.1773
+Class 4 precision: 0.0794
+Class 3 precision: 0.0742
+ map_50: 0.6133, map: 0.3107
+Class 6 precision: 0.5175
+Class 2 precision: 0.3742
+Class 7 precision: 0.0937
+Class 1 precision: 0.1485
+Class 5 precision: 0.2310
+Class 4 precision: 0.0845
+Class 3 precision: 0.0878
+ map_50: 0.6613, map: 0.3454
+Class 6 precision: 0.5659
+Class 2 precision: 0.4274
+Class 7 precision: 0.0912
+Class 1 precision: 0.1386
+Class 5 precision: 0.2601
+Class 4 precision: 0.0975
+Class 3 precision: 0.1098
+ map_50: 0.6517, map: 0.3357
+Class 6 precision: 0.3481
+Class 2 precision: 0.2529
+Class 7 precision: 0.0689
+Class 1 precision: 0.0920
+Class 5 precision: 0.1558
+Class 4 precision: 0.0658
+Class 3 precision: 0.0603
+ map_50: 0.7079, map: 0.3664
+Class 6 precision: 0.7454
+Class 2 precision: 0.5806
+Class 7 precision: 0.1188
+Class 1 precision: 0.1849
+Class 5 precision: 0.3256
+Class 4 precision: 0.1194
+Class 3 precision: 0.1344
+ map_50: 0.7145, map: 0.3739
+Class 6 precision: 0.4642
+Class 2 precision: 0.4709
+Class 7 precision: 0.1032
+Class 1 precision: 0.1628
+Class 5 precision: 0.2826
+Class 4 precision: 0.1104
+Class 3 precision: 0.1214
+ map_50: 0.7116, map: 0.3895
+Class 6 precision: 0.5943
+Class 2 precision: 0.4935
+Class 7 precision: 0.1121
+Class 1 precision: 0.1696
+Class 5 precision: 0.2966
+Class 4 precision: 0.1210
+Class 3 precision: 0.1200
+ map_50: 0.7336, map: 0.4255
+Class 6 precision: 0.4301
+Class 2 precision: 0.4045
+Class 7 precision: 0.0945
+Class 1 precision: 0.1361
+Class 5 precision: 0.2356
+Class 4 precision: 0.0949
+Class 3 precision: 0.1008
+ map_50: 0.7395, map: 0.3780
+Class 6 precision: 0.5866
+Class 2 precision: 0.3868
+Class 7 precision: 0.0924
+Class 1 precision: 0.1348
+Class 5 precision: 0.2552
+Class 4 precision: 0.0904
+Class 3 precision: 0.0980
+ map_50: 0.7268, map: 0.3953
+Class 6 precision: 0.8474
+Class 2 precision: 0.5595
+Class 7 precision: 0.1363
+Class 1 precision: 0.2253
+Class 5 precision: 0.3690
+Class 4 precision: 0.1455
+Class 3 precision: 0.1470
+ map_50: 0.7418, map: 0.4075
+Class 6 precision: 0.4622
+Class 2 precision: 0.5093
+Class 7 precision: 0.1178
+Class 1 precision: 0.1755
+Class 5 precision: 0.3059
+Class 4 precision: 0.1153
+Class 3 precision: 0.1344
+ map_50: 0.7454, map: 0.4307
+Class 6 precision: 0.7385
+Class 2 precision: 0.5146
+Class 7 precision: 0.1240
+Class 1 precision: 0.1860
+Class 5 precision: 0.3446
+Class 4 precision: 0.1240
+Class 3 precision: 0.1419
+ map_50: 0.7230, map: 0.4007
+Class 6 precision: 0.7560
+Class 2 precision: 0.4931
+Class 7 precision: 0.1270
+Class 1 precision: 0.1802
+Class 5 precision: 0.3436
+Class 4 precision: 0.1227
+Class 3 precision: 0.1319
+ map_50: 0.7618, map: 0.4481
+Class 6 precision: 0.5537
+Class 2 precision: 0.4724
+Class 7 precision: 0.1285
+Class 1 precision: 0.1903
+Class 5 precision: 0.3334
+Class 4 precision: 0.1248
+Class 3 precision: 0.1400
+ map_50: 0.7506, map: 0.4198
+Class 6 precision: 0.7755
+Class 2 precision: 0.5957
+Class 7 precision: 0.1291
+Class 1 precision: 0.1971
+Class 5 precision: 0.3708
+Class 4 precision: 0.1446
+Class 3 precision: 0.1650
+ map_50: 0.7759, map: 0.4571
+Class 6 precision: 0.6456
+Class 2 precision: 0.4923
+Class 7 precision: 0.1340
+Class 1 precision: 0.2059
+Class 5 precision: 0.3212
+Class 4 precision: 0.1221
+Class 3 precision: 0.1283
+ map_50: 0.7611, map: 0.4383
+Class 6 precision: 0.6891
+Class 2 precision: 0.4817
+Class 7 precision: 0.1234
+Class 1 precision: 0.1908
+Class 5 precision: 0.2965
+Class 4 precision: 0.1045
+Class 3 precision: 0.1160
+ map_50: 0.7721, map: 0.4597
+Class 6 precision: 0.7264
+Class 2 precision: 0.5710
+Class 7 precision: 0.1329
+Class 1 precision: 0.2081
+Class 5 precision: 0.3731
+Class 4 precision: 0.1385
+Class 3 precision: 0.1415
+ map_50: 0.7619, map: 0.4159
+Class 6 precision: 0.6845
+Class 2 precision: 0.5700
+Class 7 precision: 0.1352
+Class 1 precision: 0.2174
+Class 5 precision: 0.3714
+Class 4 precision: 0.1339
+Class 3 precision: 0.1486
+ map_50: 0.7657, map: 0.4309
+Class 6 precision: 0.9265
+Class 2 precision: 0.5671
+Class 7 precision: 0.1531
+Class 1 precision: 0.2347
+Class 5 precision: 0.3748
+Class 4 precision: 0.1256
+Class 3 precision: 0.1627
+ map_50: 0.7525, map: 0.4214
+Class 6 precision: 0.8817
+Class 2 precision: 0.6148
+Class 7 precision: 0.1583
+Class 1 precision: 0.2409
+Class 5 precision: 0.4077
+Class 4 precision: 0.1372
+Class 3 precision: 0.1810
+ map_50: 0.7602, map: 0.4518
+Class 6 precision: 0.8401
+Class 2 precision: 0.5664
+Class 7 precision: 0.1505
+Class 1 precision: 0.2248
+Class 5 precision: 0.3684
+Class 4 precision: 0.1573
+Class 3 precision: 0.1432
+ map_50: 0.7790, map: 0.4600
+Class 6 precision: 0.8544
+Class 2 precision: 0.5375
+Class 7 precision: 0.1324
+Class 1 precision: 0.1948
+Class 5 precision: 0.3290
+Class 4 precision: 0.1268
+Class 3 precision: 0.1334
+ map_50: 0.7633, map: 0.4163
+Class 6 precision: 0.7128
+Class 2 precision: 0.4546
+Class 7 precision: 0.1224
+Class 1 precision: 0.1770
+Class 5 precision: 0.2985
+Class 4 precision: 0.0998
+Class 3 precision: 0.1164
+ map_50: 0.7760, map: 0.4624
+Class 6 precision: 0.8161
+Class 2 precision: 0.6251
+Class 7 precision: 0.1477
+Class 1 precision: 0.2206
+Class 5 precision: 0.3805
+Class 4 precision: 0.1481
+Class 3 precision: 0.1509
+ map_50: 0.7818, map: 0.4707
+Class 6 precision: 0.9378
+Class 2 precision: 0.6953
+Class 7 precision: 0.1587
+Class 1 precision: 0.2499
+Class 5 precision: 0.4211
+Class 4 precision: 0.1451
+Class 3 precision: 0.1783
+ map_50: 0.7749, map: 0.4448
+Class 6 precision: 0.8152
+Class 2 precision: 0.4725
+Class 7 precision: 0.1333
+Class 1 precision: 0.1985
+Class 5 precision: 0.3237
+Class 4 precision: 0.1165
+Class 3 precision: 0.1143
+ map_50: 0.7789, map: 0.4503
+Class 6 precision: 0.8979
+Class 2 precision: 0.5148
+Class 7 precision: 0.1525
+Class 1 precision: 0.2397
+Class 5 precision: 0.3405
+Class 4 precision: 0.1227
+Class 3 precision: 0.1354
+ map_50: 0.7811, map: 0.4716
+Class 6 precision: 0.8590
+Class 2 precision: 0.6155
+Class 7 precision: 0.1625
+Class 1 precision: 0.2566
+Class 5 precision: 0.4012
+Class 4 precision: 0.1529
+Class 3 precision: 0.1588
+ map_50: 0.7846, map: 0.4665
+Class 6 precision: 1.0384
+Class 2 precision: 0.6638
+Class 7 precision: 0.1453
+Class 1 precision: 0.2345
+Class 5 precision: 0.4509
+Class 4 precision: 0.1497
+Class 3 precision: 0.1791
+ map_50: 0.7581, map: 0.4118
+Class 6 precision: 0.7729
+Class 2 precision: 0.5321
+Class 7 precision: 0.1209
+Class 1 precision: 0.1691
+Class 5 precision: 0.3316
+Class 4 precision: 0.1272
+Class 3 precision: 0.1290
+ map_50: 0.7856, map: 0.4490
+Class 6 precision: 1.0875
+Class 2 precision: 0.7153
+Class 7 precision: 0.1694
+Class 1 precision: 0.2601
+Class 5 precision: 0.4231
+Class 4 precision: 0.1662
+Class 3 precision: 0.1628
+ map_50: 0.7731, map: 0.4513
+Class 6 precision: 1.0063
+Class 2 precision: 0.6351
+Class 7 precision: 0.1384
+Class 1 precision: 0.2241
+Class 5 precision: 0.4028
+Class 4 precision: 0.1434
+Class 3 precision: 0.1671
+ map_50: 0.7762, map: 0.4493
+Class 6 precision: 1.0425
+Class 2 precision: 0.6175
+Class 7 precision: 0.1533
+Class 1 precision: 0.2357
+Class 5 precision: 0.3895
+Class 4 precision: 0.1405
+Class 3 precision: 0.1344
+ map_50: 0.7798, map: 0.4633
+Class 6 precision: 1.1060
+Class 2 precision: 0.7093
+Class 7 precision: 0.1735
+Class 1 precision: 0.2675
+Class 5 precision: 0.4497
+Class 4 precision: 0.1737
+Class 3 precision: 0.1869
+ map_50: 0.7949, map: 0.4796
+Class 6 precision: 1.0355
+Class 2 precision: 0.7275
+Class 7 precision: 0.1695
+Class 1 precision: 0.2804
+Class 5 precision: 0.4496
+Class 4 precision: 0.1673
+Class 3 precision: 0.1859
+ map_50: 0.7928, map: 0.4878
+Class 6 precision: 1.1300
+Class 2 precision: 0.8151
+Class 7 precision: 0.1922
+Class 1 precision: 0.3128
+Class 5 precision: 0.5084
+Class 4 precision: 0.1986
+Class 3 precision: 0.2256
+ map_50: 0.7930, map: 0.4914
+Class 6 precision: 0.8374
+Class 2 precision: 0.6384
+Class 7 precision: 0.1596
+Class 1 precision: 0.2381
+Class 5 precision: 0.4057
+Class 4 precision: 0.1605
+Class 3 precision: 0.1610
+ map_50: 0.7946, map: 0.4678
+Class 6 precision: 1.0224
+Class 2 precision: 0.7060
+Class 7 precision: 0.1570
+Class 1 precision: 0.2502
+Class 5 precision: 0.4508
+Class 4 precision: 0.1683
+Class 3 precision: 0.1731
+ map_50: 0.7813, map: 0.4664
+Class 6 precision: 1.2453
+Class 2 precision: 0.8132
+Class 7 precision: 0.1976
+Class 1 precision: 0.3200
+Class 5 precision: 0.5398
+Class 4 precision: 0.2133
+Class 3 precision: 0.2222
+ map_50: 0.7844, map: 0.4700
+Class 6 precision: 0.9799
+Class 2 precision: 0.7231
+Class 7 precision: 0.1770
+Class 1 precision: 0.2639
+Class 5 precision: 0.4431
+Class 4 precision: 0.1588
+Class 3 precision: 0.1742
+ map_50: 0.7912, map: 0.4856
+Class 6 precision: 1.0878
+Class 2 precision: 0.5984
+Class 7 precision: 0.1721
+Class 1 precision: 0.2857
+Class 5 precision: 0.3995
+Class 4 precision: 0.1556
+Class 3 precision: 0.1589
+ map_50: 0.7952, map: 0.4945
+Class 6 precision: 1.0954
+Class 2 precision: 0.7151
+Class 7 precision: 0.1826
+Class 1 precision: 0.2918
+Class 5 precision: 0.4503
+Class 4 precision: 0.1813
+Class 3 precision: 0.1851
+ map_50: 0.8014, map: 0.5070
+Class 6 precision: 1.1593
+Class 2 precision: 0.7627
+Class 7 precision: 0.1779
+Class 1 precision: 0.2886
+Class 5 precision: 0.5109
+Class 4 precision: 0.1770
+Class 3 precision: 0.2207
+ map_50: 0.7603, map: 0.4380
+Class 6 precision: 1.0312
+Class 2 precision: 0.6383
+Class 7 precision: 0.1588
+Class 1 precision: 0.2295
+Class 5 precision: 0.3711
+Class 4 precision: 0.1527
+Class 3 precision: 0.1747
+ map_50: 0.7985, map: 0.4888
+Class 6 precision: 1.0827
+Class 2 precision: 0.7729
+Class 7 precision: 0.2036
+Class 1 precision: 0.3114
+Class 5 precision: 0.4888
+Class 4 precision: 0.2017
+Class 3 precision: 0.2024
+ map_50: 0.7826, map: 0.4803
+Class 6 precision: 1.0633
+Class 2 precision: 0.7045
+Class 7 precision: 0.1634
+Class 1 precision: 0.2618
+Class 5 precision: 0.4405
+Class 4 precision: 0.1614
+Class 3 precision: 0.1961
+ map_50: 0.7929, map: 0.4919
+Class 6 precision: 1.1633
+Class 2 precision: 0.7265
+Class 7 precision: 0.1819
+Class 1 precision: 0.2898
+Class 5 precision: 0.4704
+Class 4 precision: 0.1746
+Class 3 precision: 0.1784
+ map_50: 0.7943, map: 0.4893
+Class 6 precision: 1.1889
+Class 2 precision: 0.7732
+Class 7 precision: 0.1921
+Class 1 precision: 0.3097
+Class 5 precision: 0.4886
+Class 4 precision: 0.1936
+Class 3 precision: 0.2111
+ map_50: 0.8016, map: 0.4996
+Class 6 precision: 1.1278
+Class 2 precision: 0.7565
+Class 7 precision: 0.1838
+Class 1 precision: 0.3115
+Class 5 precision: 0.4966
+Class 4 precision: 0.1877
+Class 3 precision: 0.2069
+ map_50: 0.8057, map: 0.5150
+Class 6 precision: 1.1056
+Class 2 precision: 0.7543
+Class 7 precision: 0.1818
+Class 1 precision: 0.2976
+Class 5 precision: 0.4880
+Class 4 precision: 0.1969
+Class 3 precision: 0.2127
+ map_50: 0.8053, map: 0.5246
+Class 6 precision: 0.9344
+Class 2 precision: 0.7041
+Class 7 precision: 0.1760
+Class 1 precision: 0.2707
+Class 5 precision: 0.4642
+Class 4 precision: 0.1913
+Class 3 precision: 0.1837
+ map_50: 0.8059, map: 0.5056
+Class 6 precision: 1.1860
+Class 2 precision: 0.7852
+Class 7 precision: 0.1868
+Class 1 precision: 0.3037
+Class 5 precision: 0.4948
+Class 4 precision: 0.1875
+Class 3 precision: 0.1910
+ map_50: 0.8019, map: 0.5127
+Class 6 precision: 1.2866
+Class 2 precision: 0.8514
+Class 7 precision: 0.2138
+Class 1 precision: 0.3564
+Class 5 precision: 0.5523
+Class 4 precision: 0.2115
+Class 3 precision: 0.2183
+ map_50: 0.8023, map: 0.5085
+Class 6 precision: 1.0742
+Class 2 precision: 0.7478
+Class 7 precision: 0.1885
+Class 1 precision: 0.3076
+Class 5 precision: 0.4740
+Class 4 precision: 0.1762
+Class 3 precision: 0.2001
+ map_50: 0.8071, map: 0.5381
+Class 6 precision: 1.0950
+Class 2 precision: 0.7821
+Class 7 precision: 0.1792
+Class 1 precision: 0.2957
+Class 5 precision: 0.4884
+Class 4 precision: 0.1786
+Class 3 precision: 0.2158
+ map_50: 0.8056, map: 0.5371
+Class 6 precision: 1.1223
+Class 2 precision: 0.7286
+Class 7 precision: 0.1930
+Class 1 precision: 0.3177
+Class 5 precision: 0.5046
+Class 4 precision: 0.1878
+Class 3 precision: 0.2104
+ map_50: 0.8080, map: 0.5184
+Class 6 precision: 0.9278
+Class 2 precision: 0.6979
+Class 7 precision: 0.1744
+Class 1 precision: 0.2795
+Class 5 precision: 0.4682
+Class 4 precision: 0.1850
+Class 3 precision: 0.1872
+ map_50: 0.8041, map: 0.5211
+Class 6 precision: 1.1348
+Class 2 precision: 0.6919
+Class 7 precision: 0.1813
+Class 1 precision: 0.2931
+Class 5 precision: 0.4843
+Class 4 precision: 0.1759
+Class 3 precision: 0.1974
+ map_50: 0.8087, map: 0.5219
+Class 6 precision: 1.0086
+Class 2 precision: 0.6211
+Class 7 precision: 0.1809
+Class 1 precision: 0.2867
+Class 5 precision: 0.3894
+Class 4 precision: 0.1613
+Class 3 precision: 0.1526
+ map_50: 0.8002, map: 0.5195
+Class 6 precision: 1.1925
+Class 2 precision: 0.7336
+Class 7 precision: 0.1833
+Class 1 precision: 0.3068
+Class 5 precision: 0.4591
+Class 4 precision: 0.1849
+Class 3 precision: 0.1855
+ map_50: 0.8046, map: 0.5247
+Class 6 precision: 0.9644
+Class 2 precision: 0.7388
+Class 7 precision: 0.1761
+Class 1 precision: 0.2861
+Class 5 precision: 0.4693
+Class 4 precision: 0.1861
+Class 3 precision: 0.1929
+ map_50: 0.8083, map: 0.5270
+Class 6 precision: 0.9820
+Class 2 precision: 0.7318
+Class 7 precision: 0.1896
+Class 1 precision: 0.3046
+Class 5 precision: 0.4698
+Class 4 precision: 0.1826
+Class 3 precision: 0.1909
+ map_50: 0.8103, map: 0.5284
+Class 6 precision: 1.0507
+Class 2 precision: 0.6849
+Class 7 precision: 0.1851
+Class 1 precision: 0.2924
+Class 5 precision: 0.4592
+Class 4 precision: 0.1765
+Class 3 precision: 0.1905
+ map_50: 0.8040, map: 0.5028
+Class 6 precision: 1.1969
+Class 2 precision: 0.7512
+Class 7 precision: 0.1843
+Class 1 precision: 0.3055
+Class 5 precision: 0.4944
+Class 4 precision: 0.1797
+Class 3 precision: 0.2110
+ map_50: 0.8027, map: 0.5334
+Class 6 precision: 1.1720
+Class 2 precision: 0.7457
+Class 7 precision: 0.1931
+Class 1 precision: 0.3201
+Class 5 precision: 0.4875
+Class 4 precision: 0.2034
+Class 3 precision: 0.2065
+ map_50: 0.8082, map: 0.5306
+Class 6 precision: 1.0502
+Class 2 precision: 0.6856
+Class 7 precision: 0.1696
+Class 1 precision: 0.2758
+Class 5 precision: 0.4453
+Class 4 precision: 0.1747
+Class 3 precision: 0.1789
+ map_50: 0.8083, map: 0.5048
+Class 6 precision: 0.9171
+Class 2 precision: 0.6548
+Class 7 precision: 0.1501
+Class 1 precision: 0.2532
+Class 5 precision: 0.4134
+Class 4 precision: 0.1522
+Class 3 precision: 0.1607
+ map_50: 0.8083, map: 0.5363
+Class 6 precision: 1.1737
+Class 2 precision: 0.7275
+Class 7 precision: 0.1832
+Class 1 precision: 0.3065
+Class 5 precision: 0.4410
+Class 4 precision: 0.1962
+Class 3 precision: 0.1723
+ map_50: 0.8062, map: 0.5366
+Class 6 precision: 1.1146
+Class 2 precision: 0.8284
+Class 7 precision: 0.2028
+Class 1 precision: 0.3263
+Class 5 precision: 0.5243
+Class 4 precision: 0.2021
+Class 3 precision: 0.2182
+ map_50: 0.8090, map: 0.5330
+Class 6 precision: 1.1374
+Class 2 precision: 0.7379
+Class 7 precision: 0.1696
+Class 1 precision: 0.2804
+Class 5 precision: 0.4418
+Class 4 precision: 0.1514
+Class 3 precision: 0.1772
+ map_50: 0.8112, map: 0.5386
+Class 6 precision: 1.1751
+Class 2 precision: 0.7858
+Class 7 precision: 0.1936
+Class 1 precision: 0.3105
+Class 5 precision: 0.5100
+Class 4 precision: 0.1980
+Class 3 precision: 0.2051
+ map_50: 0.8103, map: 0.5426
+Class 6 precision: 1.1632
+Class 2 precision: 0.8400
+Class 7 precision: 0.2031
+Class 1 precision: 0.3266
+Class 5 precision: 0.5256
+Class 4 precision: 0.1893
+Class 3 precision: 0.2174
+ map_50: 0.8040, map: 0.5213
+Class 6 precision: 1.1105
+Class 2 precision: 0.7079
+Class 7 precision: 0.2016
+Class 1 precision: 0.3184
+Class 5 precision: 0.4521
+Class 4 precision: 0.1799
+Class 3 precision: 0.1712
+ map_50: 0.7985, map: 0.5239
+Class 6 precision: 1.1775
+Class 2 precision: 0.7734
+Class 7 precision: 0.2043
+Class 1 precision: 0.3263
+Class 5 precision: 0.4778
+Class 4 precision: 0.1748
+Class 3 precision: 0.2043
+ map_50: 0.8115, map: 0.5474
+Class 6 precision: 1.1584
+Class 2 precision: 0.7434
+Class 7 precision: 0.1902
+Class 1 precision: 0.2947
+Class 5 precision: 0.5110
+Class 4 precision: 0.1946
+Class 3 precision: 0.2034
+ map_50: 0.8081, map: 0.5510
+Class 6 precision: 1.0629
+Class 2 precision: 0.7685
+Class 7 precision: 0.1825
+Class 1 precision: 0.2950
+Class 5 precision: 0.4618
+Class 4 precision: 0.1863
+Class 3 precision: 0.1660
+ map_50: 0.8150, map: 0.5519
+Class 6 precision: 1.0584
+Class 2 precision: 0.6789
+Class 7 precision: 0.1770
+Class 1 precision: 0.2811
+Class 5 precision: 0.4480
+Class 4 precision: 0.1887
+Class 3 precision: 0.1766
+ map_50: 0.8095, map: 0.5335
+Class 6 precision: 1.1959
+Class 2 precision: 0.8553
+Class 7 precision: 0.2161
+Class 1 precision: 0.3374
+Class 5 precision: 0.5424
+Class 4 precision: 0.2019
+Class 3 precision: 0.2288
+ map_50: 0.8125, map: 0.5427
+Class 6 precision: 1.2154
+Class 2 precision: 0.8549
+Class 7 precision: 0.2264
+Class 1 precision: 0.3682
+Class 5 precision: 0.5503
+Class 4 precision: 0.2241
+Class 3 precision: 0.2269
+ map_50: 0.8155, map: 0.5630
+Class 6 precision: 1.0341
+Class 2 precision: 0.7215
+Class 7 precision: 0.1869
+Class 1 precision: 0.2968
+Class 5 precision: 0.4886
+Class 4 precision: 0.1703
+Class 3 precision: 0.1993
+ map_50: 0.8168, map: 0.5437
+Class 6 precision: 1.1280
+Class 2 precision: 0.7143
+Class 7 precision: 0.1882
+Class 1 precision: 0.3184
+Class 5 precision: 0.4829
+Class 4 precision: 0.1714
+Class 3 precision: 0.1995
+ map_50: 0.8133, map: 0.5498
+Class 6 precision: 1.0504
+Class 2 precision: 0.7784
+Class 7 precision: 0.1990
+Class 1 precision: 0.3329
+Class 5 precision: 0.4987
+Class 4 precision: 0.2055
+Class 3 precision: 0.2085
+ map_50: 0.8105, map: 0.5555
+Class 6 precision: 1.1344
+Class 2 precision: 0.7603
+Class 7 precision: 0.1868
+Class 1 precision: 0.3010
+Class 5 precision: 0.5014
+Class 4 precision: 0.1896
+Class 3 precision: 0.1935
+ map_50: 0.8092, map: 0.5281
+Class 6 precision: 1.1903
+Class 2 precision: 0.7689
+Class 7 precision: 0.1997
+Class 1 precision: 0.3212
+Class 5 precision: 0.5038
+Class 4 precision: 0.1857
+Class 3 precision: 0.2028
+ map_50: 0.8076, map: 0.5396
+Class 6 precision: 1.1273
+Class 2 precision: 0.7398
+Class 7 precision: 0.2120
+Class 1 precision: 0.3464
+Class 5 precision: 0.5199
+Class 4 precision: 0.2057
+Class 3 precision: 0.2083
+ map_50: 0.8156, map: 0.5659
+Class 6 precision: 1.1339
+Class 2 precision: 0.8352
+Class 7 precision: 0.2131
+Class 1 precision: 0.3503
+Class 5 precision: 0.5170
+Class 4 precision: 0.1937
+Class 3 precision: 0.2052
+ map_50: 0.8129, map: 0.5566
+Class 6 precision: 1.2022
+Class 2 precision: 0.6613
+Class 7 precision: 0.2009
+Class 1 precision: 0.3178
+Class 5 precision: 0.4418
+Class 4 precision: 0.1919
+Class 3 precision: 0.1799
+ map_50: 0.8128, map: 0.5581
+Class 6 precision: 1.2154
+Class 2 precision: 0.8318
+Class 7 precision: 0.2193
+Class 1 precision: 0.3526
+Class 5 precision: 0.4996
+Class 4 precision: 0.1912
+Class 3 precision: 0.2138
+ map_50: 0.8163, map: 0.5652
+Class 6 precision: 1.2314
+Class 2 precision: 0.8072
+Class 7 precision: 0.2000
+Class 1 precision: 0.3282
+Class 5 precision: 0.5264
+Class 4 precision: 0.1811
+Class 3 precision: 0.2229
+ map_50: 0.8092, map: 0.5402
+Class 6 precision: 1.1459
+Class 2 precision: 0.7562
+Class 7 precision: 0.1884
+Class 1 precision: 0.2845
+Class 5 precision: 0.4551
+Class 4 precision: 0.1876
+Class 3 precision: 0.1953
+ map_50: 0.8149, map: 0.5713
+Class 6 precision: 1.2102
+Class 2 precision: 0.8233
+Class 7 precision: 0.2193
+Class 1 precision: 0.3448
+Class 5 precision: 0.5167
+Class 4 precision: 0.2081
+Class 3 precision: 0.2168
+ map_50: 0.8121, map: 0.5522
+Class 6 precision: 1.3016
+Class 2 precision: 0.8537
+Class 7 precision: 0.1988
+Class 1 precision: 0.3310
+Class 5 precision: 0.5460
+Class 4 precision: 0.2048
+Class 3 precision: 0.2201
+ map_50: 0.8130, map: 0.5531
+Class 6 precision: 1.3167
+Class 2 precision: 0.8271
+Class 7 precision: 0.2236
+Class 1 precision: 0.3645
+Class 5 precision: 0.5526
+Class 4 precision: 0.2110
+Class 3 precision: 0.2256
+ map_50: 0.8142, map: 0.5647
+Class 6 precision: 1.3870
+Class 2 precision: 0.8563
+Class 7 precision: 0.2297
+Class 1 precision: 0.3817
+Class 5 precision: 0.5648
+Class 4 precision: 0.2154
+Class 3 precision: 0.2416
+ map_50: 0.8184, map: 0.5701
+Class 6 precision: 1.2508
+Class 2 precision: 0.8275
+Class 7 precision: 0.2175
+Class 1 precision: 0.3510
+Class 5 precision: 0.5437
+Class 4 precision: 0.2097
+Class 3 precision: 0.2293
+ map_50: 0.8170, map: 0.5729
+Class 6 precision: 1.1961
+Class 2 precision: 0.8299
+Class 7 precision: 0.2211
+Class 1 precision: 0.3579
+Class 5 precision: 0.5297
+Class 4 precision: 0.2022
+Class 3 precision: 0.2328
+ map_50: 0.8187, map: 0.5818
+Class 6 precision: 1.1929
+Class 2 precision: 0.8253
+Class 7 precision: 0.2234
+Class 1 precision: 0.3622
+Class 5 precision: 0.5416
+Class 4 precision: 0.2089
+Class 3 precision: 0.2157
+ map_50: 0.8163, map: 0.5656
+Class 6 precision: 1.4256
+Class 2 precision: 0.8697
+Class 7 precision: 0.2369
+Class 1 precision: 0.3751
+Class 5 precision: 0.5899
+Class 4 precision: 0.2153
+Class 3 precision: 0.2426
+ map_50: 0.8162, map: 0.5763
+Class 6 precision: 1.4015
+Class 2 precision: 0.9113
+Class 7 precision: 0.2356
+Class 1 precision: 0.3812
+Class 5 precision: 0.5830
+Class 4 precision: 0.2277
+Class 3 precision: 0.2440
+ map_50: 0.8172, map: 0.5581
+Class 6 precision: 1.1255
+Class 2 precision: 0.8190
+Class 7 precision: 0.2154
+Class 1 precision: 0.3437
+Class 5 precision: 0.5169
+Class 4 precision: 0.2044
+Class 3 precision: 0.2133
